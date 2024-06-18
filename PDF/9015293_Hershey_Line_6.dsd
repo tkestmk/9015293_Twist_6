@@ -1,0 +1,316 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:E_9015293_Title-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Title.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Title.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Symbols-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Symbols.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Symbols.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Index-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Index.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Index.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Floor_Layout-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Floor_Layout.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Floor_Layout.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Power-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Power.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Power.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Power_2-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Power_2.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Power_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_120VAC-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_120VAC.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_120VAC.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_24VDC_Control_Power-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_24VDC_Control_Power.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_24VDC_Control_Power.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_VFD_STO-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_VFD_STO.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_VFD_STO.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Area_Scanners-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Area_Scanners.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Area_Scanners.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Safety_Relays-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Safety_Relays.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Safety_Relays.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_PLC_Layout-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_PLC_Layout.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_PLC_Layout.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Dig_Inputs-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Dig_Inputs.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Dig_Inputs.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Dig_Outputs-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Dig_Outputs.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Dig_Outputs.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Safety_IO_Mujin-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Safety_IO_Mujin.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Safety_IO_Mujin.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Robot_Controls-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Robot_Controls.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Robot_Controls.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Mujin_IO-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Mujin_IO.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Mujin_IO.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Estops_Safe_Keys-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Estops_Safe_Keys.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Estops_Safe_Keys.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Ethernet_Topology-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Ethernet_Topology.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Ethernet_Topology.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Terminal_Strip_Layout-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Terminal_Strip_Layout.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Terminal_Strip_Layout.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Back_Panel_Layout_Dimension-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Back_Panel_Layout_Dimension.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Back_Panel_Layout_Dimension.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Back_Panel_Layout-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Back_Panel_Layout.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Back_Panel_Layout.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Enclosure Layout_Power-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure Layout_Power.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure Layout_Power.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Enclosure_Layout_Control-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure_Layout_Control.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure_Layout_Control.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_BOM-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_BOM.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_BOM.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_BOM_2-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_BOM_2.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_BOM_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Blank_4-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_4.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_4.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_EOAT_Layout Side 1-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_EOAT_Layout Side 1.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_EOAT_Layout Side 1.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_EOAT_Layout Side 2-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_EOAT_Layout Side 2.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_EOAT_Layout Side 2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Blank_2-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_2.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_2.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Enclosure_Entry_Points-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure_Entry_Points.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosure_Entry_Points.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Enclosures_Mounted-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosures_Mounted.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Enclosures_Mounted.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Field_Entry_Points-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Field_Entry_Points.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Field_Entry_Points.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Blank_3-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_3.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank_3.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_LCE_Wiring-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Wiring.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Wiring.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_LCE_Enclosure-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Enclosure.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Enclosure.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_LCE_Back_Panel-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Back_Panel.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_LCE_Back_Panel.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E_9015293_Blank-Layout1]
+DWG=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank.dwg
+Layout=Layout1
+Setup=
+OriginalSheetPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\E_9015293_Blank.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\PDF\9015293_Hershey_Line_6.pdf
+OUT=C:\Users\kroht00\OneDrive - RG Group\Documents\
+PWD=
+[AcePublish]
+IncludeBookmarks=TRUE
+IncludeHyperlinks=TRUE
+ZoomFactor=50
+TempFolder=C:\Users\kroht00\AppData\Local\Temp\AcePub_300763\
+OriginWdpPath=D:\Projects\9015292_Hershey\Electrical_CAD\9015293_Twist_6\CAD\9015293_Hershey_Line_6\9015293_Hershey_Line_6.wdp
+OriginMdbPath=C:\Users\kroht00\AppData\Roaming\Autodesk\AutoCAD Electrical 2025\R25.0\enu\Support\user\9015293_Hershey_Line_6.mdb
+TempWdpPath=C:\Users\kroht00\AppData\Local\Temp\AcePub_300763\9015293_Hershey_Line_6.wdp
+TempMdbPath=C:\Users\kroht00\AppData\Local\Temp\AcePub_300763\9015293_Hershey_Line_6.mdb
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=FALSE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<ACADE>>
+CategoryName=
+LogFilePath=
+IncludeLayer=FALSE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
